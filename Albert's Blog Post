@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+  
+  <head>
+    <title>Albert's Blog</title>
+    <link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-blue.css">
+  </head>
+
+  <body>
+    <header>
+      <h1>My Blog</h1>
+      <img src="Albert's Blog Post Images/Logo.jpg">
+    </header>
+
+    <section> 
+      <header>
+        <h2>I built a webpage</h2>
+        <h3>2015-4-27</h3>
+        <h4>Albert <span style="color: red;">Yu</span></h4>
+        <img src="http://placekitten.com/200/150">
+      </header>
+      <article>
+        <p>is the <span><em>first</em> day</span> of the <strong>Lighthouse Labs</strong> part time course. It looks to be a challenge, but after a bit of learning we should all be able to write <em>beautiful</em> websites. I've been looking forward to this for a <strong>long</strong> time already!</p>
+      </article>
+    </section>
+   
+    <aside> 
+      <section>
+        <h4>Widget</h4>
+      </section>
+      <section>
+        <h4>Widget</h4>
+      </section>
+    </aside>
+
+  </body>
+
+</html>
